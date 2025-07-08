@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# IDEs
+.idea/
+*.sw?
+
+# Postman (optional — if you want to ignore)
+.postman/
+
+# Mac folder attributes
+__MACOSX/
